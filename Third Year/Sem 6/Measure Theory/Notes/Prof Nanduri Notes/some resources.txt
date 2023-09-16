@@ -1,3 +1,0 @@
-Books : 
-  Real Analysis Elias M Stein and Rami Shakarchi
-  Real Analysis H.L. Royden, P.M. Fitzpatrick
